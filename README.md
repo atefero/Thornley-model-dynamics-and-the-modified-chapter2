@@ -15,7 +15,6 @@ ZoomInq2.m
 
 MATLAB (tested with recent MATLAB versions: MATLAB R2024b).
 
-## Author
+## Authors
 
-Ati Rostami  
-Queensland University of Technology
+Ati Rostami, Brodie A. J. Lawson, and Kevin Burrage. “An in-depth study of the dynamics of Thornley's mathematical model in plant biology with a view to an improved model”. In: Journal of Theoretical Biology (2025), p. 112071. doi: https://doi.org/10.1016/j.jtbi.2025.112071
