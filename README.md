@@ -15,6 +15,10 @@ ZoomInq2.m
 
 MATLAB (tested with recent MATLAB versions: MATLAB R2024b).
 
+This repository also includes `pubfig.m`, a utility function used to format MATLAB figures for publication-quality output. The function was originally written by Joe de Rutte (May 2016) and adapted from `fixfig.m` by M. A. Hopcroft. It is included here to support figure formatting in some of the scripts.
+
+If applicable, please refer to the original source and licence information associated with this file.
+
 ## Authors
 
 Ati Rostami, Brodie A. J. Lawson, and Kevin Burrage. “An in-depth study of the dynamics of Thornley's mathematical model in plant biology with a view to an improved model”. In: Journal of Theoretical Biology (2025), p. 112071. doi: https://doi.org/10.1016/j.jtbi.2025.112071
